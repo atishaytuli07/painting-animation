@@ -257,7 +257,7 @@ const Canvas: React.FC = () => {
         onClick={changeani}
         className="fixed bottom-4 right-4 bg-white/80 py-1 px-4 rounded-md z-50 hover:bg-white"
       >
-        Chnage Paint Animation
+        Change Paint Animation
       </button>
       <button
         onClick={clearCanvas}
